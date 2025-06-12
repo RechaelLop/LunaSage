@@ -12,6 +12,13 @@ LunaSage combines the wonders of astronomy with practical agricultural wisdom to
 
 ---
 
+## 🌾 Crop Calendar
+
+Synthetic crop calendar data for 7 countries (India, Japan, Australia, Brazil, USA, Kenya, France) is generated using:
+
+- `src/generate_synthetic_crop_calendar.py`: Python script to generate the data
+- Output file: `data/agriculture/synthetic_crop_calendar.csv`
+
 ## Core Features
 
 ### 1️⃣ Astronomical Events (For Stargazers & Space Enthusiasts)
