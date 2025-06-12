@@ -1,0 +1,15 @@
+country,crop,stage,start_month,end_month
+India,Rice,Planting,June,July
+India,Rice,Harvesting,October,November
+Japan,Barley,Planting,March,April
+Japan,Barley,Harvesting,July,August
+Australia,Wheat,Planting,May,June
+Australia,Wheat,Harvesting,November,December
+Brazil,Soybean,Planting,October,November
+Brazil,Soybean,Harvesting,January,February
+USA,Corn,Planting,April,May
+USA,Corn,Harvesting,September,October
+Kenya,Maize,Planting,March,April
+Kenya,Maize,Harvesting,August,September
+France,Barley,Planting,September,October
+France,Barley,Harvesting,June,July
