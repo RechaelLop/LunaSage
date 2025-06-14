@@ -1,0 +1,78 @@
+{
+  "wheat": {
+    "optimal_phases": ["Waxing Crescent"],
+    "avoid_phases": ["Full Moon"],
+    "planting_notes": {
+      "winter": "Plant during Waning Moon in autumn",
+      "spring": "Sow during Waxing Crescent after frost"
+    },
+    "lunar_science": "Increased moonlight enhances early growth photosynthesis",
+    "harvest_timing": "Full Moon for dry harvesting"
+  },
+  "rice": {
+    "optimal_phases": ["Waxing Gibbous"],
+    "critical_period": "Transplant during First Quarter",
+    "water_management": {
+      "waxing": "Increase water levels",
+      "waning": "Reduce slightly"
+    },
+    "traditional_knowledge": "Asian farmers observe 24-hour moonlight before transplanting"
+  },
+  "corn": {
+    "optimal_phases": ["New Moon"],
+    "temperature_rule": "Soil >60°F (15°C) + Waxing Moon",
+    "pollination_tip": "Plant in blocks during Waxing phase for better wind pollination",
+    "moon_effect": "Silk emergence syncs with lunar tides"
+  },
+  "tomato": {
+    "optimal_phases": ["First Quarter"],
+    "seed_starting": "Start indoors 6 weeks before First Quarter",
+    "transplant_sign": "Best in Cancer, Scorpio or Pisces moon signs",
+    "pruning_phase": "Waning Moon to reduce disease risk"
+  },
+  "onion": {
+    "bulb_development": {
+      "sets": "Plant during Last Quarter",
+      "seeds": "Start during Waning Crescent"
+    },
+    "moon_correlation": "Bulb size increases with moon phase tracking",
+    "harvest_cue": "Pull when necks soften during Waning Moon"
+  },
+  "beans": {
+    "phase_sensitivity": {
+      "bush": "Tolerates wider windows",
+      "pole": "Requires precise Waxing Gibbous planting"
+    },
+    "nitrogen_timing": "Inoculate seeds during Waxing Moon",
+    "traditional_rule": "Plant when oak leaves are size of squirrel's ear + Waxing Moon"
+  },
+  "potato": {
+    "optimal_phases": ["Last Quarter"],
+    "planting_depth": {
+      "early": "Shallow (Waning Crescent)",
+      "maincrop": "Deep (Last Quarter)"
+    },
+    "scientific_note": "Tuber initiation responds to gravitational changes",
+    "sprout_control": "Chit during Waxing Moon before planting"
+  },
+  "sunflower": {
+    "optimal_phases": ["New Moon"],
+    "tracking_enhancement": "Plant 1-2 days before New Moon for improved heliotropism",
+    "seed_development": "Harvest heads during Waning Moon",
+    "spacing_tip": "Increase spacing during Full Moon plantings"
+  },
+  "strawberries": {
+    "establishment": {
+      "june-bearing": "Plant during Waxing Crescent",
+      "everbearing": "Waning Gibbous for fall crops"
+    },
+    "runner_management": "Root daughters during Waxing Moon",
+    "moon_mulching": "Apply straw during Waning Moon"
+  },
+  "cucumber": {
+    "optimal_phases": ["First Quarter"],
+    "temperature_rule": "Soil >70°F (21°C) + Waxing Moon",
+    "trellising_tip": "Install supports during Waxing Gibbous",
+    "bitterness_control": "Harvest mornings during Waxing phase"
+  }
+}
